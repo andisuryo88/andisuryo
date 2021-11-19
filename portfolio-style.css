@@ -464,6 +464,10 @@ h3 {
   z-index: 1;
 }
 
+.fa fa-android studio {
+  size: 200;
+}
+
 .my-teams .title::before {
   background-color: white;
 }
